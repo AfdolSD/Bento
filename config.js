@@ -46,8 +46,8 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
+      name: 'Office',
+      icon: 'folder',
       link: 'https://mail.protonmail.com/',
     },
     {
@@ -65,7 +65,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'reddit',
+      icon: 'box',
       link: 'https://reddit.com',
     },
     {
