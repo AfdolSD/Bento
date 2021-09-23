@@ -89,7 +89,6 @@ const CONFIG = {
     firstList: [
       {
         name: 'Wallpaper Flare',
-        icon: 'image',
         link: 'https://www.wallpaperflare.com',
       },
       {
