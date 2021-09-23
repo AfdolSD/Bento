@@ -48,13 +48,13 @@ const CONFIG = {
       id: '2',
       name: 'Office',
       icon: 'folder',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://www.office.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Keep',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://keep.google.com/u/0/',
     },
     {
       id: '4',
