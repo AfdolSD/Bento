@@ -65,7 +65,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'box',
+      icon: 'coffee',
       link: 'https://reddit.com',
     },
     {
@@ -82,7 +82,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'layers',
-  secondListIcon: 'coffee',
+  secondListIcon: 'feather',
 
   // Links
   lists: {
