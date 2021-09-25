@@ -93,7 +93,7 @@ const CONFIG = {
       },
       {
         name: 'Deviant Art',
-        link: 'phttps://www.deviantart.com',
+        link: 'https://www.deviantart.com',
       },
       {
         name: 'Oldies',
