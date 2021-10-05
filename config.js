@@ -47,7 +47,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'Office',
-      icon: 'folder',
+      icon: 'file-text',
       link: 'https://www.office.com/',
     },
     {
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Drive',
+      icon: 'folder',
+      link: 'https://drive.google.com/drive/u/0/my-drive',
     },
     {
       id: '5',
@@ -96,8 +96,8 @@ const CONFIG = {
         link: 'https://www.deviantart.com',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Anime Corner',
+        link: 'https://animecorner.me',
       },
       {
         name: 'Rock',
